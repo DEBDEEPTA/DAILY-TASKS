@@ -1,5 +1,4 @@
-from set_11_problem.file_processor import FileProcessor
-from set_11_problem.jsonprocessor import JsonProcessor
+from DAY_12_01_26.set_11_problem.jsonprocessor import JsonProcessor
 
 if __name__=="__main__":
 

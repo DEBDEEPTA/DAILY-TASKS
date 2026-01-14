@@ -1,6 +1,6 @@
 import json
 
-from set_11_problem.file_processor import FileProcessor
+from DAY_12_01_26.set_11_problem.file_processor import FileProcessor
 
 class JsonProcessor(FileProcessor):
 
