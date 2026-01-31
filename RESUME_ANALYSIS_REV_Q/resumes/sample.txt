@@ -1,0 +1,16 @@
+RESUME
+------------------------------
+Name: Dev samui
+Email: deep@gmail.com
+Phone: 8001334960
+--------------------------------
+SKILLS
+--------------------------------
+Skills: Python, Java, Git
+--------------------------------
+EDUCATION
+--------------------------------
+Degree: B.E(C.S.E)
+Collage: RR.Institue Of Technoledgy
+Year: 2021 - 2025
+
